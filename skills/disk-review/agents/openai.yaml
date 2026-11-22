@@ -1,0 +1,4 @@
+interface:
+  display_name: "小鲸洁 · 磁盘清理助手"
+  short_description: "查看各盘余量、占用排行和本轮清理建议，逐项勾选并跟踪实际处理进度"
+  default_prompt: "用 $disk-review 打开小鲸洁，先总结磁盘空间，再让我选择要清理的项目。"

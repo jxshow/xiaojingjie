@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+local-settings.json
+address.txt
+receipt-*.json
+storage_analysis.json
+storage_scan.json
+work/
+outputs/
+.disk-review-hold/
